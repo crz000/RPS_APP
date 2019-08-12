@@ -6,13 +6,15 @@ This app contains a simple interface app in wih you can play the traditional gam
 
 ##Installation
 
-After you clone the repository go the the rsp_app folder and install the dependencies with:
+After you clone the repository go the the *RSP_APP* folder and run the project with:
 ```
-npm install
+npm run first-run
 ```
 
-and run the app with the following:
+if you have already run the project before just type
 ```
 npm start
+```
+to run it again
 
-**Please make sure the port 3000 is free**
+**Please make sure the ports 3000 and 3001 are free**
