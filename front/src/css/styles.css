@@ -1,0 +1,16 @@
+h1, h2, h3, h4, h5{
+    text-align: center;
+}
+
+.main-container{
+    padding-top: 40px;
+}
+
+h3 span{
+    font-size: 16px;
+    color: #999999;
+}
+
+.score-table{
+    padding-top: 20px;
+}
