@@ -13,10 +13,10 @@ After you clone the repository go the the *RSP_APP* folder and run the project w
 npm run first-run
 ```
 
-if you have already run the project before just type
+if you have already run the project before, for running it again just type:
 ```
 npm start
 ```
-to run it again
 
-**Please make sure the ports 3000 and 3001 are free**
+
+NOTICE: **Please make sure the ports 3000 and 3001 are free**
