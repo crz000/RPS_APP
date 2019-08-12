@@ -14,3 +14,9 @@ h3 span{
 .score-table{
     padding-top: 20px;
 }
+
+.identification{
+    position: absolute;
+    left: 20px;
+    top: calc( 100vh - 50px)
+}

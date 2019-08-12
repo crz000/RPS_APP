@@ -99,6 +99,7 @@ class App extends Component {
         <Row>
             {this.getView()}
         </Row>
+        <div className={"identification"}>Made by Carlos Ruiz</div>
       </Container>
     );
   }
